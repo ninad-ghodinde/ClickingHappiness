@@ -1,0 +1,9 @@
+asgiref==3.2.7
+Django==3.0.5
+jedi==0.15.2
+parso==0.7.0
+pluggy==0.13.1
+python-jsonrpc-server==0.3.4
+python-language-server==0.31.10
+pytz==2019.3
+sqlparse==0.3.1
