@@ -4,7 +4,7 @@ import datetime
 # Create your views here.
 def index(request):
     return render (request,"hello.html",{"today":all})
-    
+
 
 def hello (request):
     today=datetime.datetime.now().date()
@@ -13,7 +13,7 @@ def hello (request):
     #all=datetime.datetime.now().str()
     all=str(today) +" Time :"+ str(time)
     #return render (request,"hello.html",{"today":all})
-    return render (request,"Cyrus Studio.html",{"today":all})
+    return render (request,"Clicking Happiness.html",{"today":all})
 
 def showNumber(request,number):
     text="SHowing your number : %s" %number
