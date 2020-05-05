@@ -1,0 +1,22 @@
+<!-- Footer Starts-->
+
+<style type = "text/css">
+#photoReturn {
+  margin-top:0px;
+}
+</style>
+
+<div class="footer">
+<h4 class="text-left col-md-offset-4 wowload fadeInUp" style="visibility: hidden; animation-name: none;">Owner & Founder</h4>
+<img id="photoReturn" src="cinqueterre.jpg" class="col-sm-offset-1 img-circle" alt="Cinque Terre" width="130" height="90"  onclick="getPhoto('patu38')" >
+<p class="wowload flipInX text-center" style="visibility: hidden; animation-name: none;">
+    <a href="#"><i class="fab fa-facebook fa-2x"></i></a> <a href="#"><i class="fab fa-instagram fa-2x"></i></a>
+    <a href="#"> <i class="fab fa-twitter fa-2x"></i></a> <a href="#"> <i class="fab fa-flickr fa-2x"> </i> </a>
+</p>
+<p class="text-center" >Powered by: ClickingHappiness.com</p>
+
+</div>
+
+<!-- # Footer Ends -->
+
+
