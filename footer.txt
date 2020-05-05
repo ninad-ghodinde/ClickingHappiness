@@ -1,4 +1,4 @@
-<!-- Footer Starts-->
+<!-- footer Starts-->
 
 <style type = "text/css">
 #photoReturn {
